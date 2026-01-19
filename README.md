@@ -6,6 +6,12 @@
 
 golang
 
+## 导入
+
+```golang
+go get github.com/xhymf1992/tin
+```
+
 ## 使用案例
 
 ```golang
